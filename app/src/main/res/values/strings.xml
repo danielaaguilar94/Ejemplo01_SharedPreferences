@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo01_SharedPreferences</string>
+    <string name="hint_usuario">Usuario:</string>
+    <string name="hint_contraseña">Contraseña:</string>
+    <string name="botonGuardar">Guardar</string>
+    <string name="botonCargar">Cargar</string>
+</resources>
